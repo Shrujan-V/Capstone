@@ -1,8 +1,0 @@
-segment,action,original,corrected,reason,image_id
-tract_1_seg_0,corrected,"(240, 206)","(240, 207)",adjusted_within_3px_tolerance,1
-tract_2_seg_0,corrected,"(232, 321)","(234, 319)",adjusted_within_3px_tolerance,1
-tract_2_seg_0,corrected,"(233, 316)","(234, 316)",adjusted_within_3px_tolerance,1
-tract_3_seg_0,corrected,"(188, 430)","(187, 430)",adjusted_within_3px_tolerance,1
-tract_3_seg_0,corrected,"(188, 430)","(187, 430)",adjusted_within_3px_tolerance,1
-tract_3_seg_0,corrected,"(188, 430)","(187, 430)",adjusted_within_3px_tolerance,1
-tract_7_seg_0,corrected,"(316, 209)","(317, 209)",adjusted_within_3px_tolerance,1
